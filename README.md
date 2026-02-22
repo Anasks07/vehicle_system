@@ -79,6 +79,11 @@ API Testing video link
 https://drive.google.com/file/d/1Ha62S_Gl0V01UOMHsPisp1oc5Tq00-K3/view?usp=drive_link
 
 
+Live API
+https://vehicle-system-sclu.onrender.com
+
+GET https://vehicle-system-sclu.onrender.com/api/vehicles/
+
 
 
 
