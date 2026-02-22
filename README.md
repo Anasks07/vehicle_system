@@ -48,7 +48,7 @@ API endpoints
 vehicle
  GET    api/vehicles/
  POST   api/vehicles/createvehicle/
- GET    api/vehicles/vehicledetail/
+ GET    api/vehicles/vehicledetail/<id>/
  PUT    api/vehicles/updatevehicle/<id>/
  DELETE api/vehicles/deletevehicle/<id>/
 
