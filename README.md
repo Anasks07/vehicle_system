@@ -75,8 +75,8 @@ Sample JSON for Booking
    "end_date": "2026-03-04",
 }
 
-
-
+API Testing video link
+https://drive.google.com/file/d/1Ha62S_Gl0V01UOMHsPisp1oc5Tq00-K3/view?usp=drive_link
 
 
 
