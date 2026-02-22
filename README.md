@@ -4,7 +4,7 @@
 A simple vehicle rental system built with Django REST Framework (DRF) that allows users to view vehicles, book them, and manage bookings.
 
 ---
- folder structure 
+# folder structure 
 vehiclesystem/        ← local repo root (outer folder)
 ├── venv/             ← virtual environment folder
 └── vehicle_system/   ← Django project folder (contains manage.py, apps, settings, etc.)
