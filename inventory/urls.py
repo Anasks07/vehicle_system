@@ -12,6 +12,6 @@ urlpatterns = [
     path('api/bookings/createbooking/',CreateBookingView.as_view()),
     path('api/bookings/<id>/',BookingDetailsView.as_view()),
 
-    path('api/usersignin/',UserSigninView.as_view()),
+    path('api/usersignup/',UserSigninView.as_view()),
     path('api/userlogin/',UserLoginView.as_view())
 ]
